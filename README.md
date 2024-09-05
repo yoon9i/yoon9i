@@ -3,7 +3,6 @@
 안녕하세요! 저는 민윤기입니다. 
 이곳은 제가 사용하는 기술 스택과 현재 학습 중인 기술들을 소개하는 공간입니다. 🙂
 
-----
 
 ### 🚀 사용했던 기술들
 
@@ -27,7 +26,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-----
 
 ### 📚 연습중인 것들
 
@@ -41,7 +39,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-----
 
 ### 📫 Contact
 
