@@ -1,10 +1,16 @@
-## 👋 Welcome! 환영합니다. 🙌
+<p align="center">
+  ## 👋 Welcome! 환영합니다. 🙌
+</p>
 
-안녕하세요! 저는 민윤기입니다. <br>
-이곳은 제가 사용하는 기술 스택과 현재 학습 중인 기술들을 소개하는 공간입니다. 🙂 <br>
-저는 사용자의 편의성을 먼저 생각하는 개발자가 되고싶습니다. 😎
+<p align="center">
+  안녕하세요! 저는 민윤기입니다. <br>
+  이곳은 제가 사용하는 기술 스택과 현재 학습 중인 기술들을 소개하는 공간입니다. 🙂 <br>
+  저는 사용자의 편의성을 먼저 생각하는 개발자가 되고싶습니다. 😎
+</p>
 
-## 🚀 사용했던 기술들
+<p align="center">
+  ## 🚀 사용했던 기술들
+</p>
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -25,7 +31,9 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
-## 📚 연습중인 것들
+<p align="center">
+  ## 📚 연습중인 것들
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -36,9 +44,13 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
-## 🔗 링크
+<p align="center">
+  ## 🔗 링크
+</p>
 
-📖 Blog : [https://yoon9i.tistory.com/](https://yoon9i.tistory.com/) <br>
-📧 Email : todisto29@naver.com
+<p align="center">
+  📖 Blog : <a href="https://yoon9i.tistory.com/">https://yoon9i.tistory.com/</a> <br>
+  📧 Email : <a href="mailto:todisto29@naver.com">todisto29@naver.com</a>
+</p>
 
 ---
