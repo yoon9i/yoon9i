@@ -2,7 +2,7 @@
 
 안녕하세요! 저는 민윤기입니다. 
 이곳은 제가 사용하는 기술 스택과 현재 학습 중인 기술들을 소개하는 공간입니다. 🙂
-
+저는 사용자의 편의성을 먼저 생각하는 개발자가 되고싶습니다. 😎
 
 ## 🚀 사용했던 기술들
 
@@ -40,7 +40,7 @@
 </div>
 
 
-## 📫 Contact
+## 🔗 링크
 
-Blog: [https://yoon9i.tistory.com/](https://yoon9i.tistory.com/) <br>
-Email: [todisto29@naver.com](mailto:todisto29@naver.com)
+📖: [https://yoon9i.tistory.com/](https://yoon9i.tistory.com/) <br>
+📥: [todisto29@naver.com](mailto:todisto29@naver.com)
