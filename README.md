@@ -1,16 +1,16 @@
-<p align="center">
-  ## 👋 Welcome! 환영합니다. 🙌
-</p>
+<div align="center">
+  <h1> 👋 Welcome! 환영합니다. 🙌</h1>
+</div>
 
-<p align="center">
+<div align="center">
   안녕하세요! 저는 민윤기입니다. <br>
   이곳은 제가 사용하는 기술 스택과 현재 학습 중인 기술들을 소개하는 공간입니다. 🙂 <br>
   저는 사용자의 편의성을 먼저 생각하는 개발자가 되고싶습니다. 😎
-</p>
+</div>
 
-<p align="center">
-  ## 🚀 사용했던 기술들
-</p>
+<div align="center">
+  <h3> 🚀 사용했던 기술들 </h3>
+</div>
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -31,9 +31,9 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
-<p align="center">
-  ## 📚 연습중인 것들
-</p>
+<div align="center">
+  <h3> 📚 연습중인 것들 </h3>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -44,9 +44,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
-<p align="center">
-  ## 🔗 링크
-</p>
+<div align="center">
+  <h3> 🔗 링크 </h3>
+</div>
 
 <p align="center">
   📖 Blog : <a href="https://yoon9i.tistory.com/">https://yoon9i.tistory.com/</a> <br>
