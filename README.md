@@ -29,7 +29,7 @@
 
 ----
 
-### 📚 Currently Learning
+### 📚 연습중인 것들
 
 <div align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -40,12 +40,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
-
----
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoon9i&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon9i&layout=compact&theme=radical)
 
 ----
 
