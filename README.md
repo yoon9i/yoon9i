@@ -33,11 +33,12 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
 ## 🔗 링크
 
-📖: [https://yoon9i.tistory.com/](https://yoon9i.tistory.com/) <br>
-📧: todisto29@naver.com
+📖 Blog : [https://yoon9i.tistory.com/](https://yoon9i.tistory.com/) <br>
+📧 Email : todisto29@naver.com
 
 ---
